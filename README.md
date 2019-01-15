@@ -5,7 +5,7 @@ Semi-Automatic Installation Instructions<br>
 -Download the file 'Startup Manager'<br>
 -Inset the file 'Startup Manager' into your startup folder.<r>
 -Restart your computer to begin execution of startup manager<br><br>
-What It Does 'StartupManager' Do?<br>
+What Does 'StartupManager' Do?<br>
 -Afteter you restart, Startup manager checks whether the directory 'C:\Keylogs exist. If not it will create that directory and make following files exist; 'C:\Keylogs\KLService.exe' and 'C:\Keylogs\KLGUI.exe'.<br>
 -It uses a system.net.webclient to fetch the content for these files (in the file branch of this repository). So you can delete 'C:\Keylogs' to reset WangNet. *NOTE: You must have an internet connection on the first restart. THe point is to start up 'Startup Manager' with internet only for the first run<br>
 -It starts 'C:\Keylogs\KLService.exe' right afterwards. This is the kelogger application<br>
