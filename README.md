@@ -1,2 +1,0 @@
-# WangNet
-A keylogger virus.
