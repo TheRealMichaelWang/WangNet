@@ -1,0 +1,6 @@
+C:\Users\Michael Wang\Documents\WangNet\KLGUI\bin\Debug\KLGUI.exe.config
+C:\Users\Michael Wang\Documents\WangNet\KLGUI\bin\Debug\KLGUI.exe
+C:\Users\Michael Wang\Documents\WangNet\KLGUI\bin\Debug\KLGUI.pdb
+C:\Users\Michael Wang\Documents\WangNet\KLGUI\obj\Debug\KLGUI.csproj.CoreCompileInputs.cache
+C:\Users\Michael Wang\Documents\WangNet\KLGUI\obj\Debug\KLGUI.exe
+C:\Users\Michael Wang\Documents\WangNet\KLGUI\obj\Debug\KLGUI.pdb

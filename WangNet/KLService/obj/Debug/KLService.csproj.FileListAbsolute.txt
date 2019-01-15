@@ -1,0 +1,17 @@
+C:\Users\MichaelWang\source\repos\WangNet\KLService\bin\Debug\KLService.exe
+C:\Users\MichaelWang\source\repos\WangNet\KLService\bin\Debug\KLService.pdb
+C:\Users\MichaelWang\source\repos\WangNet\KLService\obj\Debug\KLService.csprojAssemblyReference.cache
+C:\Users\MichaelWang\source\repos\WangNet\KLService\obj\Debug\KLService.KLService.resources
+C:\Users\MichaelWang\source\repos\WangNet\KLService\obj\Debug\KLService.Properties.Resources.resources
+C:\Users\MichaelWang\source\repos\WangNet\KLService\obj\Debug\KLService.csproj.GenerateResource.cache
+C:\Users\MichaelWang\source\repos\WangNet\KLService\obj\Debug\KLService.csproj.CoreCompileInputs.cache
+C:\Users\MichaelWang\source\repos\WangNet\KLService\obj\Debug\KLService.exe
+C:\Users\MichaelWang\source\repos\WangNet\KLService\obj\Debug\KLService.pdb
+C:\Users\Michael Wang\Documents\WangNet\KLService\bin\Debug\KLService.exe
+C:\Users\Michael Wang\Documents\WangNet\KLService\bin\Debug\KLService.pdb
+C:\Users\Michael Wang\Documents\WangNet\KLService\obj\Debug\KLService.KLService.resources
+C:\Users\Michael Wang\Documents\WangNet\KLService\obj\Debug\KLService.Properties.Resources.resources
+C:\Users\Michael Wang\Documents\WangNet\KLService\obj\Debug\KLService.csproj.GenerateResource.cache
+C:\Users\Michael Wang\Documents\WangNet\KLService\obj\Debug\KLService.csproj.CoreCompileInputs.cache
+C:\Users\Michael Wang\Documents\WangNet\KLService\obj\Debug\KLService.exe
+C:\Users\Michael Wang\Documents\WangNet\KLService\obj\Debug\KLService.pdb

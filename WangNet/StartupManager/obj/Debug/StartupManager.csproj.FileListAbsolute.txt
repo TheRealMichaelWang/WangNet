@@ -1,0 +1,6 @@
+C:\Users\Michael Wang\Documents\WangNet\StartupManager\bin\Debug\StartupManager.exe.config
+C:\Users\Michael Wang\Documents\WangNet\StartupManager\bin\Debug\StartupManager.exe
+C:\Users\Michael Wang\Documents\WangNet\StartupManager\bin\Debug\StartupManager.pdb
+C:\Users\Michael Wang\Documents\WangNet\StartupManager\obj\Debug\StartupManager.csproj.CoreCompileInputs.cache
+C:\Users\Michael Wang\Documents\WangNet\StartupManager\obj\Debug\StartupManager.exe
+C:\Users\Michael Wang\Documents\WangNet\StartupManager\obj\Debug\StartupManager.pdb
